@@ -1,1 +1,1 @@
-# kvizwebsite
+# Skeleton project for Swagger
